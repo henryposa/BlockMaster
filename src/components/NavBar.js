@@ -30,8 +30,8 @@ export const NavBar = () => {
                                 </li>
                             </ul>
                             <li className="justify-content-end">
-                                <Link type="button" class="btn btn-outline-primary" to="/account/login">Login</Link>
-                                <Link type="button" class="btn btn-outline-primary" to="/account/register">Register</Link>
+                                <Link type="button" className="btn btn-outline-primary" to="/account/login">Login</Link>
+                                <Link type="button" className="btn btn-outline-primary" to="/account/register">Register</Link>
                             </li>
 
                         </div>
